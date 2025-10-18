@@ -122,3 +122,39 @@ It helps developers to:
 ---
 
 ## 🗂️ Repo Details
+
+
+# 3. Project Roles and Responsibilities
+**Mandatory**
+
+## 🎯 Objective
+Define and document the **roles and responsibilities** of each team member involved in the AirBnB Clone project.
+
+---
+
+## 👥 Roles and Responsibilities
+
+| **Role** | **Key Responsibilities** | **Contribution to Project Success** |
+|-----------|---------------------------|--------------------------------------|
+| **Project Manager** | Oversees project timelines, manages resources, and ensures deliverables are met. | Keeps the project on track, organized, and ensures all deadlines are achieved. |
+| **Frontend Developers** | Implement UI components using React, ensure responsive layouts, and connect to APIs. | Deliver a visually appealing and user-friendly interface that matches the design system. |
+| **Backend Developers** | Build RESTful APIs, manage databases, and implement business logic. | Power the application’s functionality and ensure smooth data flow between client and server. |
+| **Designers** | Create UI/UX mockups in Figma, define design systems, and maintain consistent aesthetics. | Ensure the platform is intuitive, attractive, and aligned with user needs. |
+| **QA/Testers** | Write and execute test cases, identify bugs, and ensure quality standards are met. | Guarantee that the application is stable, reliable, and free of major issues before deployment. |
+| **DevOps Engineers** | Set up CI/CD pipelines, manage servers, handle deployments, and monitor performance. | Ensure that the project runs smoothly in production with minimal downtime. |
+| **Product Owner** | Define project requirements, prioritize features, and represent the end users. | Keep the project aligned with business goals and user expectations. |
+| **Scrum Master** | Facilitate Agile processes, lead stand-ups, remove blockers, and track progress. | Maintain productivity, communication, and team focus throughout development. |
+
+---
+
+## 💡 Why Define Roles?
+Defining clear roles ensures:
+- Team members understand their **specific responsibilities**.  
+- **Accountability** and **collaboration** are improved.  
+- The project flows efficiently with fewer overlaps or gaps.  
+- Everyone works toward the **same shared goals**.
+
+---
+
+## 🗂️ Repo Details
+
