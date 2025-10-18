@@ -79,3 +79,46 @@ By focusing on **clarity, simplicity, and responsiveness**, we can deliver a smo
 ---
 
 ## 🗂️ Repo Details
+
+
+# 2. More UI/UX Design Planning
+**Mandatory**
+
+## 🎯 Objective
+Understand and explore the **Figma environment** to identify key design elements that will guide the front-end development process.
+
+---
+
+## 🎨 Color Styles
+| **Type** | **Color Code** | **Usage** |
+|-----------|----------------|-----------|
+| **Primary** | `#FF5A5F` | Buttons, highlights, and main accents |
+| **Secondary** | `#008489` | Links, secondary accents, icons |
+| **Background** | `#FFFFFF` | General background color |
+| **Text (Primary)** | `#222222` | Main text color for readability |
+| **Text (Secondary)** | `#717171` | Subtext, captions, and less prominent details |
+
+---
+
+## ✍️ Typography
+| **Category** | **Font Family** | **Font Weight** | **Font Size** | **Usage** |
+|---------------|------------------|------------------|----------------|------------|
+| **Headings** | Circular | Bold (700) | 24px – 32px | Page titles, section headers |
+| **Body Text** | Circular | Medium (500) | 16px | General content text |
+| **Secondary Text** | Circular | Book (400) | 14px | Descriptions, small labels |
+
+---
+
+## 💡 Importance of Identifying Design Properties
+Understanding a Figma mockup’s **design properties** — such as color styles, typography, and spacing — is essential for maintaining a **consistent and professional user interface**.
+
+It helps developers to:
+- Achieve **visual consistency** across all components.  
+- Reduce design-to-development confusion.  
+- Ensure proper **brand identity** and **user experience alignment**.  
+- Speed up development by following a defined **design system**.  
+- Improve collaboration between designers and developers.
+
+---
+
+## 🗂️ Repo Details
