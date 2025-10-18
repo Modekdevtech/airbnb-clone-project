@@ -158,3 +158,70 @@ Defining clear roles ensures:
 
 ## 🗂️ Repo Details
 
+
+# 4. UI Component Patterns
+**Mandatory**
+
+## 🎯 Objective
+Begin exploring and documenting the **UI components** planned for the AirBnB Clone project.  
+Each component will be designed for **reusability**, **consistency**, and **responsive behavior** across devices.
+
+---
+
+## 🧩 Planned Components
+
+### 🧭 Navbar
+**Description:**  
+The navigation bar allows users to access key sections of the application quickly.
+
+**Key Elements:**
+- Project logo and brand name  
+- Search bar for property queries  
+- User navigation links (Login, Sign up, Profile)  
+- Responsive hamburger menu for mobile screens  
+
+**Purpose:**  
+Provides consistent navigation and enhances user experience throughout the site.
+
+---
+
+### 🏡 Property Card
+**Description:**  
+Displays a single property’s main details in a grid or list layout.
+
+**Key Elements:**
+- Property image thumbnail  
+- Basic details: price, location, and rating  
+- Favorite (❤️) button for wishlisting  
+- Responsive design for different screen sizes  
+
+**Purpose:**  
+Acts as the main visual element for property browsing, enabling users to quickly scan listings.
+
+---
+
+### 🦶 Footer
+**Description:**  
+A consistent footer that appears on all pages.
+
+**Key Elements:**
+- Quick navigation links (Home, About, Contact)  
+- Company information and copyright  
+- Social media icons and external links  
+
+**Purpose:**  
+Provides helpful links, brand identity, and accessibility to important information.
+
+---
+
+## 💡 Design Goal for Components
+All components will be:
+- **Reusable** – built as modular React components.  
+- **Consistent** – follow the same design system and color scheme from Figma.  
+- **Responsive** – adapt seamlessly to desktop, tablet, and mobile views.  
+- **Accessible** – designed following WCAG accessibility standards.
+
+---
+
+## 🗂️ Repo Details
+
